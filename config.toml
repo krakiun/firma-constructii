@@ -1,0 +1,4 @@
+baseURL = 'https://firma-constructii.recomand.app/'
+languageCode = 'ro-ro'
+title = 'Firma de Constructii'
+theme = 'ananke'
